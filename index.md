@@ -1,5 +1,11 @@
 ## Welcome to the beginning of my GitHub static site! Here, I'll likely be seeing if I can create a site to serve as my portfolio!
 
+Down here i'll start listing links to the codepens I've created with HTML/CSS and later possibly with Javascript.
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/JC-Cervidae/github-pages-with-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
